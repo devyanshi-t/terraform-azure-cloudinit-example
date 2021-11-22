@@ -25,5 +25,3 @@ output "pip" {
 }
 
 ```
-# terraform-azure-cloudinit-example
-# terraform-azure-cloudinit-example
